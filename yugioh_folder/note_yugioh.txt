@@ -1,0 +1,19 @@
+# Bussiness understanding
+
+- Problema: encontrar a melhor jogada numa rodada no yugioh. Com as cartas em mãos encontrar a melhor jogada.
+
+- Tipos de decks e entender as melhores jogadas dele;
+- 40 a 60 cartas;
+- Em termos gerais, pode ser qualquer versão da franquia Yu-Gi-Oh;
+- Cartas mágicas, armadilhas, monstros normais, de fusão, de efeito, xyz, sincron;
+
+- Yugioh Deckbuild in Python
+- Algoritmo Minimax;
+
+
+[12/01/22]
+- Ver: <https://www.twilio.com/blog/building-computer-generated-yugioh-decks-in-python-with-openai-s-gpt-3-and-twilio-sms>
+- Repos no git: <https://github.com/topics/yugioh?l=python&o=desc&s=>
+
+[19/01/22]
+- FAzer o repo no git
