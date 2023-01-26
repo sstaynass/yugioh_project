@@ -1,21 +1,23 @@
-Nomes tecnicos Yugioh
+Nomes tecnicos Yugioh:
 
-Metagame refere-se aos Decks no uso competitivo atual que estão tendo o maior sucesso. Especificamente, quando os duelistas falam sobre o metagame (ou 'meta', para abreviar), eles falam sobre quais estilos de deck e estratégias são os mais dominantes em sua área de jogo. 
+Metagame refere-se aos Decks no uso competitivo atual que estão tendo o maior sucesso.
+
 
 Anti-Meta é qualquer deck que é construído para neutralizar os decks mais populares que estão sendo usados.
-
 Decks Anti-Meta exemplo: "Masked HERO", "Gravekeeper's", "Yosenju", "Monarch" e "PSY-Frame". 
 
 O tema habitual dos decks Anti-Meta é impedir as Invocações-Especiais do oponente, já que muitos decks atuais no metagame foca em Invocações-Especiais. Alguns decks Anti-Meta focam em banir os monstros do oponente, já que a maioria dos decks meta precisa do Cemitério para funcionar, ou então não pode funcionar enquanto certos componentes são banidos. 
 
+
 Um OTK - abreviação de One Turn Kill (Vitória em um Turno, em tradução livre) - é alcançado quando um duelista vence um Duelo no espaço de um único turno, logo que o duelista dizer que tem os cards apropriados na sua mão/Cemitério e tem controle sobre o Duelo.
+
 
 Uma prótese (proxy no inglês) é um card falso que é usado para tomar o lugar de um card real.
 
 
 Enxamear ("swarming" em inglês) é o processo de Invocar monstros rapidamente para o seu lado do campo na tentativa de sobrecarregar o seu oponente. 
-
 Exemplos de swarming: "Double Summon", "Ultimate Offering", "Cyber Dragon", "The Tricky", "Gilasaurus", "Six Samurai", "Frog", "Infernity", "Blackwing", "Zombies", "X-Saber", "Dark World", "Melodious" e "Fabled" 
 
 
-Anti-enxame ("anti-swarm" em inglês) refere-se aos cards que ajudam a neutralizar o enxame. Exemplo: "Mirror Force", "Summon Limit", "Lightning Vortex", "Torrential Tribute", "Summoning Curse" e "Dark Hole". "Ultimate Tyranno”, “Worm Warlord", "Covering Fire" "United We Stand", "Fighting Spirit" 
+Anti-enxame ("anti-swarm" em inglês) refere-se aos cards que ajudam a neutralizar o enxame. 
+Exemplo: "Mirror Force", "Summon Limit", "Lightning Vortex", "Torrential Tribute", "Summoning Curse" e "Dark Hole". "Ultimate Tyranno”, “Worm Warlord", "Covering Fire" "United We Stand", "Fighting Spirit" 
