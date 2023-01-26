@@ -6,7 +6,8 @@ Metagame refere-se aos Decks no uso competitivo atual que estão tendo o maior s
 Anti-Meta é qualquer deck que é construído para neutralizar os decks mais populares que estão sendo usados.
 Decks Anti-Meta exemplo: "Masked HERO", "Gravekeeper's", "Yosenju", "Monarch" e "PSY-Frame". 
 
-O tema habitual dos decks Anti-Meta é impedir as Invocações-Especiais do oponente, já que muitos decks atuais no metagame foca em Invocações-Especiais. Alguns decks Anti-Meta focam em banir os monstros do oponente, já que a maioria dos decks meta precisa do Cemitério para funcionar, ou então não pode funcionar enquanto certos componentes são banidos. 
+O tema habitual dos decks Anti-Meta é impedir as Invocações-Especiais do oponente, já que muitos decks atuais no metagame foca em Invocações-Especiais. 
+Alguns decks Anti-Meta focam em banir os monstros do oponente, já que a maioria dos decks meta precisa do Cemitério para funcionar, ou então não pode funcionar enquanto certos componentes são banidos. 
 
 
 Um OTK - abreviação de One Turn Kill (Vitória em um Turno, em tradução livre) - é alcançado quando um duelista vence um Duelo no espaço de um único turno, logo que o duelista dizer que tem os cards apropriados na sua mão/Cemitério e tem controle sobre o Duelo.
