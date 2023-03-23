@@ -1,19 +1,24 @@
 import os
 import openai
 
-openai.api_key = os.environ.get("OPENAI_API_KEY")
-prompt_text = "Here is my Yugioh deck: \n\n[deck]"
+openai.api_key = os.environ.get('OPENAI_API_KEY')
+print(os.environ.get('OPENAI_API_KEY'))
+prompt_text = 'Here is my Yugioh deck: \n\n[deck]'
 
 response = openai.Completion.create(
-  engine="davinci",
-  prompt=prompt_text,
-  temperature=0.7,
-  max_tokens=500
+    engine="davinci",
+    prompt=prompt_text,
+    temperature=0.7,
+    max_tokens=300,
+    presence_penalty=0.3
 )
 
-print(prompt_text + response['choices'][0]['text'])
+resp_text = response['choices'][0]['text']
 
+if '[/deck]' in resp_text:
+    message_body = resp_text[:resp_text.lower().find('[/deck]')]
+else:
+    # If it doesn't get to the end of a deck, cut off after the last newline.
+    message_body = resp_text[:resp_text.rfind('\n')]
 
-# export OPENAI_API_KEY='YOUR_API_KEY_HERE'
-# export TWILIO_ACCOUNT_SID='YOUR_ACCOUNT_SID'
-# export TWILIO_AUTH_TOKEN='YOUR_AUTH_TOKEN'
+print(message_body)
